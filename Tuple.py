@@ -1,0 +1,6 @@
+x, y = (50, 100)
+print('x=', x)
+print("y=", y)
+a, b = (10, 20)
+print(a)
+print(b)
